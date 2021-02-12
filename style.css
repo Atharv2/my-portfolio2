@@ -1,0 +1,37 @@
+
+   h1{
+       color:coral;
+   }
+
+/*{
+    border: solid;
+}*/
+
+.header{
+
+background-color: rgba(128, 255, 0, 0.562);
+display: flex;
+justify-content: space-between;
+}
+.menu{
+    background-color: darkmagenta;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.site-Description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+p,h2{
+    text-align: center;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
